@@ -33,9 +33,11 @@ function generateMarkdown(data) {
 
   Step 6: Push & Open PR 
 
-   ## To run this application, you will need to install the following tests:
+   ## Tests:
+   Deployed link to application
    ### ${data.tests}
-   ## Have any questions about this project? Feel free to reach out to me via email or view my GitHub.
+   ## Questions
+  Do you have any questions about this project? Feel free to reach out to me via email or view my GitHub.
    ### ${data.questions}
    ### https://www.github.com/${data.username}
   `;

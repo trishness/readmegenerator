@@ -27,7 +27,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "What tests are required to run your project?",
+        message: "Please provide a link to your deployed application for the user to test",
         name: "tests"
     },
     {
