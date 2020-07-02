@@ -3,11 +3,6 @@ var fs = require("fs");
 var inquirer = require("inquirer");
 var questions = require("./utils/questions").questions;
 
-var myData={
-    title:"Welcome to my readme",
-    name:"WHatever"
-}
-
 // function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, function(error){

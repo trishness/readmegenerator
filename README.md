@@ -1,6 +1,6 @@
 # WANDER
    ## Purpose of this project : 
-   wanderwander
+   An app to help an indecisive hiker choose a new hike near the Seattle area.
    # Table of Contents:
    1. [Licenses](#licenses)
    2. [Contributing](#contributing)
@@ -33,7 +33,7 @@
 
    ## Tests:
    Deployed link to application
-   ### https://github.com/CodySamuels/wander
+   ### https://codysamuels.github.io/wander/
    ## Questions
   Do you have any questions about this project? Feel free to reach out to me via email or view my GitHub.
    ### trishnss@gmail.com
