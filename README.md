@@ -1,6 +1,7 @@
-# WANDER
+# jfklsda
+  ![license](https://img.shields.io/badge/license-GNUAGPLv3-green)
    ## Purpose of this project : 
-   An app to help an indecisive hiker choose a new hike near the Seattle area.
+   jkflsa
    # Table of Contents:
    1. [Licenses](#licenses)
    2. [Contributing](#contributing)
@@ -8,14 +9,14 @@
    4. [Questions](#questions)
 
    ## Installations required to run this project:
-   ### Visit my GitHub and clone this repo, then install the following: npm install inquirer
+   ### Visit my GitHub and clone this repo, then install the following: fjklsda
    ## Licenses:
 
-   ![license](https://img.shields.io/badge/license-GNUAGPLv3-green)
+   ### GNUAGPLv3
 
    ## Contributing:
 
-  Thanks for your interest in contributing to WANDER!  
+  Thanks for your interest in contributing to jfklsda!  
 
   ## How to submit changes
 
@@ -33,9 +34,9 @@
 
    ## Tests:
    Deployed link to application
-   ### https://codysamuels.github.io/wander/
+   ### fjdskla
    ## Questions
   Do you have any questions about this project? Feel free to reach out to me via email or view my GitHub.
-   ### trishnss@gmail.com
-   ### https://www.github.com/trishness
+   ### fjdskla
+   ### https://www.github.com/jfklsda
   
