@@ -20,6 +20,11 @@ const questions = [
         name: "installation"
     },
     {
+        type: "input",
+        message: "Please list the languages/tools that you used to develop your project.",
+        name: "usage"
+    },
+    {
         type: "checkbox",
         message: "Please select any licenses for your project.",
         name: "licenses",
