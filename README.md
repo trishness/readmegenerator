@@ -1,7 +1,7 @@
 # WANDER
   ![license](https://img.shields.io/badge/license-GNUAGPLv3-green)
    ## Purpose of this project : 
-   An app to help an indecisive hiker select an adventure near Seattle.
+   A user friendly application that assists an indecisive hiker in selecting their next outdoor adventure near Seattle.
    # Table of Contents:
    1. [Licenses](#licenses)
    2. [Contributing](#contributing)
@@ -10,7 +10,7 @@
    5. [Questions](#questions)
 
    ## Installations required to run this project:
-   ### Visit my GitHub and clone this repo, then install the following: npm install inquirer
+   ### Visit my GitHub and clone this repo, then install the following: npm inquirer
    ## Licenses:
 
    ### GNUAGPLv3
@@ -35,7 +35,7 @@
   
    ## Usage:
    ### The following languages and resources were used to develop this project:
-   ### HTML, JQuery, Materialize, animate
+   ### JavaScript, HTML, CSS, Materialize, animate.JS, APIs
    ## Tests:
    Deployed link to application
    ### https://codysamuels.github.io/wander/
